@@ -5,6 +5,8 @@ Attendance-Based Token Rewards is a blockchain-based platform that incentivizes 
 
 ## Contract Address
 0xB5e1ad5332D52081A0a302ea6eA43d77fe4d8F37
+<img width="1193" alt="Screenshot 2024-12-21 at 2 28 03 PM" src="https://github.com/user-attachments/assets/8fa84d64-f64e-49a1-89e2-530384d8419c" />
+
 
 ## Project Vision
 The vision of this project is to revolutionize the online education experience by promoting active participation and rewarding students for their dedication. By gamifying attendance, the project aims to create a more engaging and rewarding learning environment.
